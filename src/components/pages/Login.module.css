@@ -1,0 +1,27 @@
+
+
+.login_container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 4rem;
+}
+.login_container h1{
+    font-size: 2.5rem;
+    margin: 0 0 .5rem;
+}
+.login_container h1 span{
+    color: #ffbb33;
+    padding: 0 .2rem;
+    background-color: #222;
+}
+.login_container p{
+    margin: 0 0 2rem;
+    color: #7b7b7b;
+}
+.login_container img{
+    margin: 2rem 0;
+    max-width: 350px;
+}

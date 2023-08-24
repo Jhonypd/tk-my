@@ -1,0 +1,22 @@
+{
+    "users": [],
+    "matriz": [],
+    "nivel": [
+      {
+        "id": 1,
+        "name": "Master"
+      },
+      {
+        "id": 2,
+        "name": "Gerencial"
+      },
+      {
+        "id": 3,
+        "name": "Subgerencial"
+      },
+      {
+        "id": 4,
+        "name": "Usuário"
+      }
+    ]
+  }

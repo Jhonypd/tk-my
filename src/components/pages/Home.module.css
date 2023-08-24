@@ -1,0 +1,12 @@
+
+
+.home_container{
+    width: 100%;
+    padding: 2rem;
+}
+
+.title_container{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 0 2rem 0;
+}

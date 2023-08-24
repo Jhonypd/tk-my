@@ -1,0 +1,75 @@
+{
+  "projects": [
+    {
+      "name": "novo project",
+      "budget": "15000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "teste msg",
+      "budget": "16400",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "cost": 3600,
+      "services": [
+        {
+          "name": "Backend para bd relacional",
+          "cost": "900",
+          "description": "Para próxima etapa",
+          "id": "f46b8aff-1653-4734-b9c3-eac42a68b928"
+        }
+      ],
+      "id": 4
+    },
+    {
+      "name": "teste esse",
+      "budget": "2500",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 349,
+      "services": [
+        {
+          "name": "Serviço 2",
+          "cost": "100",
+          "description": "teste",
+          "id": "b927075d-5a17-4616-be4b-9503fbf80c11"
+        },
+        {
+          "name": "Serviço 3",
+          "cost": "249",
+          "description": "teste",
+          "id": "10bb10ea-57af-4425-8568-7be829212b10"
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
